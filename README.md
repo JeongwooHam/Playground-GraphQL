@@ -26,7 +26,7 @@
   - GraphQL의 경우 동일한 엔티티에서 작동해도 각 쿼리가 다를 수 있어서 데이터 캐싱이 복잡할 수 있다.
   - 하지만 GraphQL 위에 구축된 대부분의 라이브러리가 효율적인 캐싱 매커니즘을 제공하고 있다!
 
-## Express GraphQL Server 생성해보기
+## [Express GraphQL Server 생성해보기](https://github.com/JeongwooHam/Playground-GraphQL/tree/master/express)
 
 - postman으로 요청 시 아래와 같이 응답이 잘 오는 것을 확인할 수 있었다.
 
@@ -46,3 +46,5 @@ app.use(
 ```
 
 ![image](https://github.com/JeongwooHam/FE_Study_Logs/assets/123251211/37dbcec7-a433-4465-9efe-cab0f3877937)
+
+### 투머치 리드미를 방지하기 위해 나머지 내용은 [Wiki](https://github.com/JeongwooHam/Playground-GraphQL/wiki)에 작성하였다.
