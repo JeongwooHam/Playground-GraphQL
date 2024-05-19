@@ -47,4 +47,4 @@ app.use(
 
 ![image](https://github.com/JeongwooHam/FE_Study_Logs/assets/123251211/37dbcec7-a433-4465-9efe-cab0f3877937)
 
-### 투머치 리드미를 방지하기 위해 나머지 내용은 [Wiki](https://github.com/JeongwooHam/Playground-GraphQL/wiki)에 작성하였다.
+### 나머지 내용은 [Wiki](https://github.com/JeongwooHam/Playground-GraphQL/wiki)
